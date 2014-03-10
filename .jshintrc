@@ -1,0 +1,18 @@
+{
+  "asi": true,
+  "bitwise": false,
+  "boss": true,
+  "browser": true,
+  "curly": false,
+  "eqeqeq": false,
+  "eqnull": true,
+  "evil": true,
+  "forin": false,
+  "indent": 2,
+  "lastsemic": true,
+  "laxcomma": true,
+  "regexdash": true,
+  "sub": true,
+  "trailing": true,
+  "wsh": true
+}

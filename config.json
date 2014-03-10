@@ -1,0 +1,16 @@
+{
+  "paths": {
+      "local": {
+          "_": "app"
+        , "scripts": "app/scripts"
+        , "styles": "app/styles"
+        , "images": "app/images"
+      }
+    , "dist": {
+        "_": "dist"
+        , "scripts": "dist/assets/js"
+        , "styles": "dist/assets/css"
+        , "images": "dist/assets/img"
+    }
+  }
+}
